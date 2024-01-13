@@ -4,6 +4,7 @@ import "./App.css";
 
 import FriendsList from "./component/FriendsList";
 import FormAddFriend from "./component/FormAddFriend";
+import FormSplitBill from "./component/FormSplitBill";
 
 import Button from "./component//Button";
 
