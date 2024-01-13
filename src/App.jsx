@@ -3,6 +3,7 @@ import { useState } from "react";
 import "./App.css";
 
 import FriendsList from "./component/FriendsList";
+import FormAddFriend from "./component/FormAddFriend";
 
 import Button from "./component//Button";
 
